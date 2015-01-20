@@ -1,0 +1,9 @@
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\bin\Debug\PetStore.Domain.Repository.dll
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\bin\Debug\PetStore.Domain.Repository.pdb
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\bin\Debug\PetStore.Domain.Interfaces.dll
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\bin\Debug\PetStore.Domain.Model.dll
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\bin\Debug\PetStore.Domain.Interfaces.pdb
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\bin\Debug\PetStore.Domain.Model.pdb
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\obj\Debug\PetStore.Domain.Repository.csprojResolveAssemblyReference.cache
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\obj\Debug\PetStore.Domain.Repository.dll
+c:\development\PetStore\PetStore.Solution\PetStore.Domain.Repository\obj\Debug\PetStore.Domain.Repository.pdb
