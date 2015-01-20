@@ -11,7 +11,7 @@ A web application for a pet store.
 - Must demonstrate ability to retrieve from at least 2 different sources thereby proving benefit of Dependency Injection.
 - Each layer must only talk to its adjacent layer
 - More when I think of them
-- 
+
 ## Technology Stack
 - ASP.NET MVC 5
 - ASP.NET Web-API (eventially)
