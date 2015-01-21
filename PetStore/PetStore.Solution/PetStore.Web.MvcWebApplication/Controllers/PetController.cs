@@ -1,15 +1,11 @@
-﻿using PetStore.Service.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Mvc;
-
+﻿using System.Web.Mvc;
+using PetStore.Service.Interfaces;
 
 namespace PetStore.Web.MvcWebApplication.Controllers
 {
     public class PetController : Controller
     {
-        IPetService _petService;
+        readonly IPetService _petService;
 
         public PetController(IPetService petService)
         {

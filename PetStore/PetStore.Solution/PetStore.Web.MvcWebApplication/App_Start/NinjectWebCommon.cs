@@ -1,20 +1,19 @@
-[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(PetStore.Web.MvcWebApplication.App_Start.NinjectWebCommon), "Start")]
-[assembly: WebActivatorEx.ApplicationShutdownMethodAttribute(typeof(PetStore.Web.MvcWebApplication.App_Start.NinjectWebCommon), "Stop")]
+using System;
+using System.Collections.Generic;
+using System.Web;
+using Microsoft.Web.Infrastructure.DynamicModuleHelper;
+using Ninject;
+using Ninject.Modules;
+using Ninject.Web.Common;
+using PetStore.Service.DependencyResolution;
+using PetStore.Web.MvcWebApplication.App_Start;
+using WebActivatorEx;
+
+[assembly: WebActivatorEx.PreApplicationStartMethod(typeof(NinjectWebCommon), "Start")]
+[assembly: ApplicationShutdownMethod(typeof(NinjectWebCommon), "Stop")]
 
 namespace PetStore.Web.MvcWebApplication.App_Start
 {
-    using System;
-    using System.Web;
-
-    using Microsoft.Web.Infrastructure.DynamicModuleHelper;
-
-    using Ninject;
-    using Ninject.Web.Common;
-    using PetStore.Service;
-    using Ninject.Modules;
-    using System.Collections.Generic;
-    using PetStore.Service.DependencyResolution;
-
     public static class NinjectWebCommon 
     {
         private static readonly Bootstrapper bootstrapper = new Bootstrapper();

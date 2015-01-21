@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
 namespace PetStore.Web.WebApiApplication.Areas.HelpPage.ModelDescriptions

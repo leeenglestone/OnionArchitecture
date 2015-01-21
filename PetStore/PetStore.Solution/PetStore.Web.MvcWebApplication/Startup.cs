@@ -1,7 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
+using PetStore.Web.MvcWebApplication;
 
-[assembly: OwinStartupAttribute(typeof(PetStore.Web.MvcWebApplication.Startup))]
+[assembly: OwinStartup(typeof(Startup))]
 namespace PetStore.Web.MvcWebApplication
 {
     public partial class Startup

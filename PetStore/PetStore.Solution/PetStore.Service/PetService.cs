@@ -1,16 +1,12 @@
-﻿using PetStore.Domain.Interfaces;
+﻿using System.Collections.Generic;
+using PetStore.Domain.Interfaces;
 using PetStore.Service.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PetStore.Service
 {
     public class PetService : IPetService
     {
-        IPetRepository _petRepository;
+        readonly IPetRepository _petRepository;
 
         public PetService(IPetRepository petRepository)
         {
