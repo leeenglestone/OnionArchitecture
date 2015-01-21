@@ -1,4 +1,0 @@
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Interfaces\bin\Debug\PetStore.Domain.Interfaces.dll
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Interfaces\bin\Debug\PetStore.Domain.Interfaces.pdb
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Interfaces\obj\Debug\PetStore.Domain.Interfaces.dll
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Interfaces\obj\Debug\PetStore.Domain.Interfaces.pdb

@@ -1,7 +1,0 @@
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\obj\Debug\PetStore.Domain.Model.csprojResolveAssemblyReference.cache
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\bin\Debug\PetStore.Domain.Model.dll
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\bin\Debug\PetStore.Domain.Model.pdb
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\bin\Debug\PetStore.Domain.Interfaces.dll
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\bin\Debug\PetStore.Domain.Interfaces.pdb
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\obj\Debug\PetStore.Domain.Model.dll
-c:\development\PetStore\PetStore.Solution\PetStore.Domain.Model\obj\Debug\PetStore.Domain.Model.pdb
